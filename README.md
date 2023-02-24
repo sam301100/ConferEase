@@ -1,5 +1,4 @@
 # Booking-App
 
-Creators:
-Samruddhi Somwanshi
-Jay Gujarathi
+### Creators:
+### Samruddhi Somwanshi, Jay Gujarathi
