@@ -11,3 +11,6 @@ export default function Layout(){
         </div>
     )
 }
+
+
+/* change max-w-4xl to edit the width  */
