@@ -1,4 +1,4 @@
-# Booking-App
+# Staycation Booking App
 
 ### Creators:
 ### Samruddhi Somwanshi, Jay Gujarathi
