@@ -1,4 +1,4 @@
-<h1 align="center"> Staycation Booking App 🏩 </h1>
+<h1 align="center"> Conference room booking application for corporate environments 🏢🏬 </h1>
 
 > Ongoing project
 
