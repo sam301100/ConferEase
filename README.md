@@ -21,7 +21,3 @@ Contributions, issues and feature requests are welcome.<br />
 
 Please ⭐️ this repository if this project helped you!
 
-
-## 📝 License
-
-Copyright © 2023 [Samruddhi Somwanshi](https://github.com/sam301100).<br />
