@@ -18,7 +18,7 @@ const app = express();
 
 const bcryptSalt = bcrypt.genSaltSync(10);
 const jwtSecret = 'fasefraw4r5r3wq45wdfgw34twdfg';
-const bucket = 'dawid-booking-app';
+const bucket = 'conferease-app';
 
 app.use(express.json());
 app.use(cookieParser());
